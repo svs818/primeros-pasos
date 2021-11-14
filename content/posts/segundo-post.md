@@ -5,3 +5,4 @@ draft: false
 ---
 
 Este es el segundo post.
+![Imagen2](/static/imagen2.png)
