@@ -5,4 +5,4 @@ draft: false
 ---
 
 Este es el primer post.
-![Imagen1](/static/imagen1.jpg)
+![Imagen1](imagen1.jpg)

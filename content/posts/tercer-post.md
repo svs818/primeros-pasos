@@ -5,4 +5,4 @@ draft: false
 ---
 
 Este es el tercer post.
-![Imagen3](/static/imagen3.jpeg)
+![Imagen3](imagen3.jpeg)
