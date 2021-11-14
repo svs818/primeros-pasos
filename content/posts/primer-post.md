@@ -5,7 +5,4 @@ draft: false
 ---
 
 Este es el primer post.
-![Imagen1](/primeros-pasos/static/imagen1.jpg)
-
-<img src="static/imagen1.jpg" alt="demo" class="img-responsive">
-C:\Proyectos_Daw\primeros-pasos\static\imagen1.jpg
+![Imagen1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tooltyp.com%2F8-beneficios-de-usar-imagenes-en-nuestros-sitios-web%2F&psig=AOvVaw3uUOHXjeOLBNT_0xWuFPGd&ust=1636972940796000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD808rVl_QCFQAAAAAdAAAAABAD)
