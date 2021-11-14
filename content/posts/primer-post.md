@@ -5,6 +5,7 @@ draft: false
 ---
 
 Este es el primer post.
-![Imagen1](static/imagen1.jpg)
+![Imagen1](/primeros-pasos/static/imagen1.jpg)
 
 <img src="static/imagen1.jpg" alt="demo" class="img-responsive">
+C:\Proyectos_Daw\primeros-pasos\static\imagen1.jpg
