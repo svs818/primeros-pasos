@@ -5,4 +5,4 @@ draft: false
 ---
 
 Este es el primer post.
-![Imagen1](/resources/_gen/images/imagen1.jpg){width="10" heaigh ="420"}
+![Imagen1](/resources/_gen/images/imagen1.jpg){width="10" height ="420"}
