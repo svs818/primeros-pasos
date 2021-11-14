@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'primeros-pasos'
+theme = "tale"
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 2
+      [[menu.main]]
+	identifier = "pagina1"
+	name = "Pagina1"
+	title = "Pagina1"
+	url = "/pagina1/"
+	weight = 3
+      [[menu.main]]
+	identifier = "pagina2"
+	name = "Pagina2"
+	title = "Pagina2"
+	url = "/pagina2/"
+	weight = 4
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 5
