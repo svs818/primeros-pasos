@@ -5,5 +5,5 @@ draft: false
 ---
 
 Este es el primer post.
-![Imagen1](/resources/_gen/images/imagen1.jpg){width="200" height ="420"}
+![Imagen1](/static/imagen1.jpg){width="200" height ="420"}
 <img src=/resources/_gen/images/imagen1.jpg alt="50" width="50">
