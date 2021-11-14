@@ -6,3 +6,5 @@ draft: false
 
 Este es el primer post.
 ![Imagen1](imagen1.jpg)
+
+<img src="/imagen1.jpg" alt="demo" class="img-responsive">
