@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/pagina2/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/pagina2/</loc>
     <lastmod>2021-11-14T10:45:53+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/pagina1/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/pagina1/</loc>
     <lastmod>2021-11-14T10:45:48+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/posts/</loc>
     <lastmod>2021-11-14T10:37:26+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/</loc>
     <lastmod>2021-11-14T10:37:26+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/tercer-post/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/posts/tercer-post/</loc>
     <lastmod>2021-11-14T10:37:26+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/segundo-post/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/posts/segundo-post/</loc>
     <lastmod>2021-11-14T10:37:21+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/posts/primer-post/</loc>
     <lastmod>2021-11-14T10:36:58+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/contacto/</loc>
     <lastmod>2021-11-14T10:32:02+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://svs818.github.io/primeros-pasos/tags/</loc>
   </url>
 </urlset>

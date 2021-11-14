@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>primeros-pasos</title>
-    <link>http://example.org/</link>
+    <link>https://svs818.github.io/primeros-pasos/</link>
     <description>Recent content on primeros-pasos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 14 Nov 2021 10:37:26 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 10:37:26 +0100</lastBuildDate><atom:link href="https://svs818.github.io/primeros-pasos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pagina2</title>
-      <link>http://example.org/pagina2/</link>
+      <link>https://svs818.github.io/primeros-pasos/pagina2/</link>
       <pubDate>Sun, 14 Nov 2021 10:45:53 +0100</pubDate>
       
-      <guid>http://example.org/pagina2/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/pagina2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pagina1</title>
-      <link>http://example.org/pagina1/</link>
+      <link>https://svs818.github.io/primeros-pasos/pagina1/</link>
       <pubDate>Sun, 14 Nov 2021 10:45:48 +0100</pubDate>
       
-      <guid>http://example.org/pagina1/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/pagina1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tercer Post</title>
-      <link>http://example.org/posts/tercer-post/</link>
+      <link>https://svs818.github.io/primeros-pasos/posts/tercer-post/</link>
       <pubDate>Sun, 14 Nov 2021 10:37:26 +0100</pubDate>
       
-      <guid>http://example.org/posts/tercer-post/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/posts/tercer-post/</guid>
       <description>Este es el tercer post.</description>
     </item>
     
     <item>
       <title>Segundo Post</title>
-      <link>http://example.org/posts/segundo-post/</link>
+      <link>https://svs818.github.io/primeros-pasos/posts/segundo-post/</link>
       <pubDate>Sun, 14 Nov 2021 10:37:21 +0100</pubDate>
       
-      <guid>http://example.org/posts/segundo-post/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/posts/segundo-post/</guid>
       <description>Este es el segundo post.</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://svs818.github.io/primeros-pasos/posts/primer-post/</link>
       <pubDate>Sun, 14 Nov 2021 10:36:58 +0100</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/posts/primer-post/</guid>
       <description>Este es el primer post. </description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://svs818.github.io/primeros-pasos/contacto/</link>
       <pubDate>Sun, 14 Nov 2021 10:32:02 +0100</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/contacto/</guid>
       <description>Este es un sitio web creado con Hugo, por Sergio Vélez alumno del CPIFP Los Enlaces.</description>
     </item>
     

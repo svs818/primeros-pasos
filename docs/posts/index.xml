@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on primeros-pasos</title>
-    <link>http://example.org/posts/</link>
+    <link>https://svs818.github.io/primeros-pasos/posts/</link>
     <description>Recent content in Posts on primeros-pasos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 14 Nov 2021 10:37:26 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 10:37:26 +0100</lastBuildDate><atom:link href="https://svs818.github.io/primeros-pasos/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tercer Post</title>
-      <link>http://example.org/posts/tercer-post/</link>
+      <link>https://svs818.github.io/primeros-pasos/posts/tercer-post/</link>
       <pubDate>Sun, 14 Nov 2021 10:37:26 +0100</pubDate>
       
-      <guid>http://example.org/posts/tercer-post/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/posts/tercer-post/</guid>
       <description>Este es el tercer post.</description>
     </item>
     
     <item>
       <title>Segundo Post</title>
-      <link>http://example.org/posts/segundo-post/</link>
+      <link>https://svs818.github.io/primeros-pasos/posts/segundo-post/</link>
       <pubDate>Sun, 14 Nov 2021 10:37:21 +0100</pubDate>
       
-      <guid>http://example.org/posts/segundo-post/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/posts/segundo-post/</guid>
       <description>Este es el segundo post.</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://svs818.github.io/primeros-pasos/posts/primer-post/</link>
       <pubDate>Sun, 14 Nov 2021 10:36:58 +0100</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://svs818.github.io/primeros-pasos/posts/primer-post/</guid>
       <description>Este es el primer post. </description>
     </item>
     
